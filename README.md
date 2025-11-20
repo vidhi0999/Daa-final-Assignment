@@ -29,9 +29,3 @@ Feel free to explore and run the Jupyter Notebook for live output.
 
 ---
 
-Let me know if you want:
-- 📝 **Project description for resume**
-- 📊 **Comparison graph with Binary Heap**
-- 🧠 **Interview Q&A about Fibonacci Heaps**
-- 📑 **One-page summary PDF**
-
